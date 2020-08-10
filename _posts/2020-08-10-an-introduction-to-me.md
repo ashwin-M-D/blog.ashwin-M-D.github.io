@@ -20,7 +20,14 @@ I am also interested in the linux kernel and building minimalistic Operating Sys
 ## My Skills
 I consider myself a proficient coder but I am not a software developer. I have not participated in any coding hackathons or in any competitive coding environments. I prefer to call myself an applied mathematician or a theoretical machine learning researcher. Over the last ten years I have coded in over 20 languages. Many of which are hardly used today. Examples of which are BASIC languages such as TrueBASIC, QBASIC, VB6, etc. The major langauges which I use on a day to day basis are Python, JAVA, C and sometimes R.
 <br /><br />
-I have also worked in web development but I am not very interested in it. Web developement has a lot of prospects and though the industry was down a few years ago is really starting to pick up again dut to high efficiency frameworks and total cloud computation ideologies which are taking the front seat.
+I have also worked in web development but I am not very interested in it. Web developement has a lot of prospects and though the industry was down a few years ago is really starting to pick up again dut to high efficiency frameworks and total cloud computation ideologies which are taking the front seat. However, as I mentioned before, I am interested in the mathematics than the development of products which is what web development is.
 <br /><br />
+My undergraduate major was in Biotechnology. My work was mainly in the field of Computational Biology and I worked under the supervison of Dr. P Satpati where I ran simulations and analized data on Human Beta Defensins and how they interact in a salty environment. Most simulations were run in NAMD and a few more in gromacs. The visualisation software used was VMD and Pymol.
+<br /><br />
+During my undergraduate degree I also had the opportunity to work with Prof. Koichiro Yamauchi, at Chubu University, Japan. Under his supervision, I published my first paper on one-shot learning algorithms for reinforcement learning. It focused on Human - Computer collaborative learning. The paper was published at ICPRAM 2019 held in Prague, Czech republic.
 
 <br />
+## My Plans and Aspirations
+I wish to persue a Ph.D in Machine learning after I finish my MS at Northeastern University. I am have worked in research labs throughout my undergraduate degree and plan to do the same during my Master's degree as well.
+<br /><br />
+I also plan to write more blogs here as technical guides on topics in both machine learning and operating systems which I find interesting. As I have always said, If you hvae any doubts or need to contact me, please feel free to do so on my email ashwindevanga@live.com
