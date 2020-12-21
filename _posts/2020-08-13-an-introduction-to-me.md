@@ -28,6 +28,6 @@ During my undergraduate degree, I also had the opportunity to work with Prof. Ko
 
 <br />
 ## My Plans and Aspirations
-I wish to pursue a Ph.D. in Machine learning after I finish my MS at Northeastern University. I am have worked in research labs throughout my undergraduate degree and plan to do the same during my Master's degree as well.
+I wish to pursue a Ph.D. in Machine learning after I finish my MS at Northeastern University. I have worked in research labs throughout my undergraduate degree and plan to do the same during my Master's degree as well.
 <br /><br />
 I also plan to write more blogs here as technical guides on topics in both machine learning and operating systems which I find interesting. As I have always said, If you have any doubts or need to contact me, please feel free to do so on my email ashwindevanga@live.com
